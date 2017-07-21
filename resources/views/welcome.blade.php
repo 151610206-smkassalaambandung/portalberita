@@ -84,7 +84,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Sport Addict</h1>
-                        <p class="intro-text">Forever Young and Wild.</p>
+                        <p class="intro-text">Forever Young.</p>
                         
                          <section id="portfolio" class="bg-light-gray">
         <div class="container">
@@ -99,7 +99,7 @@
                        <center><img src="img/portofolio/bayern.jpg" class="img-responsive" alt=""></center>
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Arsenal dan bayern adu lotre bersama uttaran</h4>
+                        <h4>Arsenal dan bayern </h4>
                         
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                         <center><img src="img/portofolio/bulutangkis1.jpg" class="img-responsive" alt=""></center>
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Liliatna nasir mengaku salatri saat sea games</h4>
+                        <h4>Liliatna nasir </h4>
                         
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                         <center><img src="img/portofolio/yaoming1.jpg" class="img-responsive" alt=""></center>
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Pemain asal sanghai ini kesal karena mukanya di jadikan meme</h4>
+                        <h4>Pemain asal sanghai </h4>
                         
                     </div>
                 </div>
